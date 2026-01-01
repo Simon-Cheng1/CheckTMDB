@@ -1,27 +1,27 @@
 # Tmdb Hosts Start
-13.225.158.58               tmdb.org
-18.238.192.100              api.tmdb.org
-3.163.224.18                files.tmdb.org
-3.166.244.28                themoviedb.org
-3.163.158.91                api.themoviedb.org
-3.166.244.28                www.themoviedb.org
-3.169.5.46                  auth.themoviedb.org
-84.17.38.228                image.tmdb.org
-79.127.213.216              images.tmdb.org
+3.163.224.99                tmdb.org
+143.204.160.124             api.tmdb.org
+3.163.224.2                 files.tmdb.org
+65.8.54.49                  themoviedb.org
+18.238.238.2                api.themoviedb.org
+3.166.244.95                www.themoviedb.org
+3.169.5.16                  auth.themoviedb.org
+84.17.38.231                image.tmdb.org
+84.17.38.228                images.tmdb.org
 44.215.137.99               imdb.com
-18.155.187.37               www.imdb.com
-98.82.158.179               secure.imdb.com
+143.204.79.214              www.imdb.com
+98.82.155.134               secure.imdb.com
 143.204.79.214              s.media-imdb.com
-98.82.155.134               us.dd.imdb.com
+44.215.137.99               us.dd.imdb.com
 18.155.187.37               www.imdb.to
 44.215.137.99               origin-www.imdb.com
-23.218.95.18                ia.media-imdb.com
-13.32.60.81                 thetvdb.com
+146.75.113.16               ia.media-imdb.com
+18.65.144.82                thetvdb.com
 13.249.158.80               api.thetvdb.com
-3.168.89.53                 ia.media-imdb.com
+143.204.84.187              ia.media-imdb.com
 151.101.109.16              f.media-amazon.com
-3.166.205.46                imdb-video.media-imdb.com
-# Update time: 2026-01-01T18:18:43+08:00
+3.166.205.68                imdb-video.media-imdb.com
+# Update time: 2026-01-02T06:16:46+08:00
 # IPv4 Update url: https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv4
 # IPv6 Update url: https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv6
 # Star me: https://github.com/cnwikee/CheckTMDB
